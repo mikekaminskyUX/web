@@ -43,6 +43,15 @@ input[type=text] {
     border-radius: 8px;
 }
 
+input[type=number] {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 16px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
 input[type=radio]{
     width: 2em;
     height: 2em;
